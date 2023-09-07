@@ -1,0 +1,11 @@
+{
+  "name": "open-danja",
+  "version": "1.0.0",
+  "description": "open-source implementation of the danjalang",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "naijun0403",
+  "license": "Apache-2.0"
+}
